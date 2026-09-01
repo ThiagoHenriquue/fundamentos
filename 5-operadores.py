@@ -30,3 +30,9 @@ smaller_equal = num1 <= num2
 
 print(f"Os numeros  {num1} e {num2} sao iguais ? : {equal}")
 print(f"Os numeros  {num1} e maior ou igual  {num2}?  : {bigger_equal}")
+
+# Atribuicao 
+num1 += 1 #num1 = num1 + 1 
+num1 -= 1 #num1 = num1 - 1 
+num1 *= 1 #num1 = num1 * 1 
+num1 /= 1 #num1 = num1 / 1 
